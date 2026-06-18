@@ -138,4 +138,4 @@ Weather-based crop suggestions
 
 The Online Crop Sales System provides an efficient platform for farmers and customers to buy and sell agricultural products online. It ensures secure transactions, easy product management, and improved accessibility while reducing the time and effort involved in traditional crop sales processes.
 
-Author
+
